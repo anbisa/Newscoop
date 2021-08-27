@@ -1,8 +1,5 @@
 <?php
 
-
-
-
 $uri = '';
 if (isset($_SERVER)) {
     $installPrefix = pathinfo($_SERVER['SCRIPT_NAME'], PATHINFO_DIRNAME);
