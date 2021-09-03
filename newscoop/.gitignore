@@ -1,8 +1,8 @@
 # Bootstrap
-# application/bootstrap*
+application/bootstrap*
 
 # Symfony directories
-# */log/*
-# cache/*
-# public/uploads/*
-# public/bundles/*
+*/log/*
+cache/*
+public/uploads/*
+public/bundles/*
